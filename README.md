@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP and quantitative finance  and bayesian learning
 - 👯 I’m looking to collaborate on projects about finance, health that implies social impact
 - 🤔 I’m looking for help with LSTM models and bayesian latent models
-- 💬 Ask me about quantitative finance 
+- 💬 Ask me about actuarial science and bayesian modelling 
 - 📫 How to reach me: www.linkedin.com/in/jesús-quispe
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love rap battles
